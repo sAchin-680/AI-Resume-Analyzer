@@ -1,3 +1,5 @@
+<img width="1512" height="858" alt="Screenshot 2025-10-03 at 7 59 09 PM" src="https://github.com/user-attachments/assets/3d3c71d7-9c63-4148-8098-b1e90637d89d" />
+
 # AI Resume Analyzer
 
 High-quality, production-ready single-repo React application for analyzing resumes using an opinionated ATS-aware heuristic and AI-guided feedback. Built with React Router (v7), TypeScript, Vite and TailwindCSS. The app demonstrates a small-scope UI for uploading/browsing resumes and returning structured feedback that can be consumed by downstream services.
